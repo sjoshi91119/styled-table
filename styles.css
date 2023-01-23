@@ -29,7 +29,28 @@ a{
 .pend{
     background-color: yellow;
     color:goldenrod;
-    height: 50%;
-    width:50%;
-
+    padding:15px 0px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgb(219, 201, 201);
+    border: 1px outset rgb(246, 248, 120);
+}
+.Paid{
+    background-color: rgb(52, 218, 93);
+    color:rgb(2, 119, 30);
+    padding:15px 0px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgb(219, 201, 201);
+    border: 2px  outset rgb(178, 241, 178);
+}
+.Unp{
+    background-color: rgb(254, 79, 73);
+    color:rgb(193, 4, 4);
+    padding:15px 0px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgb(219, 201, 201);
+    border: 2px outset rgb(247, 112, 112);
+}
+p{
+    font-size: 20px;
+    font-weight:500;
 }
